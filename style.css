@@ -4,4 +4,7 @@
 }
 .blog{
     display: flex;
+    justify-content: start;
+    align-self: start;
+    text-transform: uppercase;
 }
